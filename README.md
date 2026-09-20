@@ -1,3 +1,6 @@
+https://kost1al-source.github.io/fuel-presentation/
+
+
 # 📊 Презентація системи обліку та аудиту палива | Malik Stavba s.r.o.
 
 > **Конфіденційна інтерактивна презентація для СЕО Malik Stavba s.r.o. Олега Маліка**  
